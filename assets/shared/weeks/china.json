@@ -1,0 +1,26 @@
+{
+  "songs": [
+    [
+      "CHINA",
+      "sharprust",
+      [
+        202,
+        83,
+        196
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "CHINA",
+  "weekBefore": "",
+  "weekName": "SharpRust vs Wis",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false,
+  "difficulties": "Easy, Normal, Hard"
+}

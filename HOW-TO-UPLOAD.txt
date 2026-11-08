@@ -1,0 +1,18 @@
+CHINA — REAL PSYCH ENGINE 1.0.4 — HTML5 WEBSITE
+
+This ZIP contains the ready-to-upload website. It was not published.
+1. Extract the ZIP.
+2. Upload its CONTENTS into the root of your GitHub repository.
+3. When you decide to publish, set GitHub Pages to your branch / root folder.
+Do not upload just the ZIP as a repository file and expect it to become a website.
+
+LOCAL PLAY:
+Open Terminal in this extracted directory and run:
+  python3 -m http.server 8080 --bind 127.0.0.1
+Open http://127.0.0.1:8080/ in your browser.
+Click play, choose Easy/Normal/Hard with left/right, then Enter.
+Notes: ASWD or arrow keys. Escape pauses and goes back in menus.
+
+This is the compiled real Psych Engine. Source and build scripts are in the separate
+CHINA-PsychEngine-Source-and-Web.zip handoff. Preserve LICENSE.txt, CREDITS.txt
+and THIRD_PARTY_NOTICES.txt. The game has no automatic deployment workflow.
