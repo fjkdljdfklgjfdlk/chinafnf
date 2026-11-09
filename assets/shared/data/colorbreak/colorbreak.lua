@@ -1,0 +1,2 @@
+-- Placement and camera are now owned by stages/colorbreak-park.lua.
+-- No airborne bounce or scale animation.

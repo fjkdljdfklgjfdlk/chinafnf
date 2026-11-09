@@ -1,0 +1,50 @@
+{
+  "editor": "Photopea in Chrome, native Script drawing tools",
+  "method": "Manually authored geometry, native lasso fills/strokes, named editable layers",
+  "ai_generation_used": false,
+  "floor_y": 610,
+  "characters": {
+    "foxen": {
+      "atlas": [
+        1536,
+        1024
+      ],
+      "frame": [
+        512,
+        512
+      ],
+      "poses": 6,
+      "y": 151,
+      "pose_baselines": {
+        "idle": 459,
+        "left": 465,
+        "down": 459,
+        "up": 459,
+        "right": 468,
+        "hey": 459
+      },
+      "png_sha256": "7927bb7312ba62c0371e155fd9b35ee8858c33ec63f4f1aa368079eef1a1d5b7"
+    },
+    "sulfur": {
+      "atlas": [
+        1536,
+        1024
+      ],
+      "frame": [
+        512,
+        512
+      ],
+      "poses": 6,
+      "y": 149,
+      "pose_baselines": {
+        "idle": 461,
+        "left": 461,
+        "down": 461,
+        "up": 461,
+        "right": 461,
+        "hey": 461
+      },
+      "png_sha256": "b228116a4bc1fe567a6e13aacf491bf85bc32b60a5954a9cfe40e52d7cd00945"
+    }
+  }
+}

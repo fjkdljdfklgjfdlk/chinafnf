@@ -1,0 +1,26 @@
+{
+  "songs": [
+    [
+      "COLORBREAK",
+      "foxen",
+      [
+        164,
+        62,
+        222
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "dad",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "COLORBREAK",
+  "weekBefore": "",
+  "weekName": "Foxen vs Sulfur",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false,
+  "difficulties": "Hard"
+}

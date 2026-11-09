@@ -1,0 +1,168 @@
+{
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "idle",
+      "fps": 12,
+      "loop": true,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "left",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        6
+      ]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "down",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singUP",
+      "name": "up",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "right",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        9
+      ]
+    },
+    {
+      "anim": "hey",
+      "name": "hey",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "firstDeath",
+      "name": "down",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "deathLoop",
+      "name": "down",
+      "fps": 12,
+      "loop": true,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "deathConfirm",
+      "name": "hey",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singLEFTmiss",
+      "name": "left",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        6
+      ]
+    },
+    {
+      "anim": "singDOWNmiss",
+      "name": "down",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singUPmiss",
+      "name": "up",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        0
+      ]
+    },
+    {
+      "anim": "singRIGHTmiss",
+      "name": "right",
+      "fps": 12,
+      "loop": false,
+      "indices": [],
+      "offsets": [
+        0,
+        9
+      ]
+    }
+  ],
+  "image": "characters/foxen",
+  "scale": 1,
+  "sing_duration": 4,
+  "position": [
+    90,
+    151
+  ],
+  "camera_position": [
+    160,
+    0
+  ],
+  "healthicon": "foxen",
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    165,
+    30,
+    211
+  ],
+  "vocals_file": "Foxen",
+  "_editor_isPlayer": false
+}

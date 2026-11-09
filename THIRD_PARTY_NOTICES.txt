@@ -143,3 +143,5 @@ tjson 1.4.0
 ============================================================
 License stated by upstream: BSD
 Upstream: https://github.com/martamius/TJSON
+
+COLORBREAK instruments: GeneralUser GS 2.0.3 by S. Christian Collins. https://github.com/mrbumpy409/GeneralUser-GS . See GeneralUser-LICENSE.txt. Only rendered original musical performances are included, not the SoundFont. Sprite designs supplied by user; replacement sprite artwork drawn in Photopea using manually specified geometry and native editing layers.

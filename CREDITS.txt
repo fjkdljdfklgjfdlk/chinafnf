@@ -22,3 +22,21 @@ chinese-meme-song.mp3
 social-credit-music.mp3
 social-credit_751J4TV.mp3
 chinese-ringtone_ekpdPc7.mp3
+
+
+COLORBREAK — original composition and rhythm-game arrangement.
+Music: original 180 BPM D-minor score; sampled piano, guitars, bass, drums,
+strings and synth, rendered using GeneralUser GS 2.0.3 by S. Christian Collins.
+https://schristiancollins.com/generaluser.php
+https://github.com/mrbumpy409/GeneralUser-GS
+See GeneralUser-LICENSE.txt. The bank itself is not included.
+Vocals: original synthesized formant chromatics, not cloned voices.
+Foxen: low distorted chest vowels. Sulfur: brighter upper-register vowels.
+Character designs: user-supplied foxen.png and sulfur.png.
+Replacement six-pose sprites: original cel-shaded drawing geometry executed in Photopea using native selection fills, strokes and named editable layers. No image-generation model used for these replacement sprites.
+The sprites use outlined block geometry with shaded faces. Layered Photopea PSD source is included separately.
+Melody, score and recordings from Silly Billy are not used.
+Psych Engine 1.0.4 by ShadowMario and contributors: Apache 2.0.
+https://github.com/ShadowMario/FNF-PsychEngine/tree/1.0.4
+
+Stage update: user-supplied Roblox park screenshot, retained unchanged. GF and speakers hidden; no airborne bops.

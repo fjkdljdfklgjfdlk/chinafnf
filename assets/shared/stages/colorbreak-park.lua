@@ -1,0 +1,30 @@
+-- Exact supplied park screenshot; both avatars share floor Y=610.
+function onCreate()
+    makeLuaSprite('colorbreakPark', 'colorbreak/park', 0, 0)
+    setGraphicSize('colorbreakPark', 1280, 720)
+    updateHitbox('colorbreakPark')
+    setProperty('colorbreakPark.origin.x', 0); setProperty('colorbreakPark.origin.y', 0)
+    setProperty('colorbreakPark.offset.x', 0); setProperty('colorbreakPark.offset.y', 0)
+    setScrollFactor('colorbreakPark', 1, 1)
+    addLuaSprite('colorbreakPark', false)
+    for _,shadow in ipairs({{'foxenGround',222},{'sulfurGround',804}}) do
+        makeLuaSprite(shadow[1], 'colorbreak/contact-shadow', shadow[2], 594)
+        setScrollFactor(shadow[1], 1, 1)
+        addLuaSprite(shadow[1], false)
+    end
+end
+function onCreatePost()
+    setProperty('gfGroup.visible', false)
+    setProperty('dad.origin.x', 0); setProperty('dad.origin.y', 0)
+    setProperty('boyfriend.origin.x', 0); setProperty('boyfriend.origin.y', 0)
+    setProperty('dad.scale.x', 1); setProperty('dad.scale.y', 1)
+    setProperty('boyfriend.scale.x', 1); setProperty('boyfriend.scale.y', 1)
+    setProperty('dad.x', 90); setProperty('dad.y', 151)
+    setProperty('boyfriend.x', 675); setProperty('boyfriend.y', 149)
+    setProperty('boyfriend.flipX', false)
+    setProperty('defaultCamZoom', 1); setProperty('camGame.zoom', 1)
+    setProperty('camZoomingMult', 0)
+    triggerEvent('Camera Follow Pos', '640', '360')
+    setProperty('camGame.scroll.x', 0); setProperty('camGame.scroll.y', 0)
+    setPropertyFromClass('substates.GameOverSubstate', 'characterName', 'sulfur')
+end
